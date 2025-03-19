@@ -30,7 +30,7 @@ Ho podeu fer vosaltres o utilitzar sons ja creats, en aquest cas s'haurà d'acre
 
 Si utilitzeu codi no generat per vosaltres, com una llibreria, heu d'acreditar la seva utilització.
 
-## Mínims del projecte.
+## Estructura del projecte.
 
 ### Pantalla d'inici:
 
@@ -51,5 +51,8 @@ Té com a mínim les opcions de:
 És el joc en sí.
 
 Quan acaba una partida o es presiona "esc" es retorna a la pantalla de menú.
+
+## Presentació
+
 
 
